@@ -1,15 +1,15 @@
 #Summary
 
 - [소개](README.md)
-- [브랜치 규칙]
+- [브랜치 규칙](docs/branch_rule/README.md)
   - [커밋 컨벤션]
   - [PR 가이드]
 - [깃북 사용법]
   - []
-- [작성 가이드]
+- [작성 가이드](docs/edit_guide/README.md)
   - [서술 가이드]
-    - [문체 가이드](docs/write_style/writebookstyle.md)
-    - [명명법]
+    - [문체 가이드](docs/edit_guide/write_style/writebookstyle.md)
+    - [명명법](docs/edit_guide/write_style/naming_convention.md)
 
   - [스타일 가이드]
     - [사용예시]

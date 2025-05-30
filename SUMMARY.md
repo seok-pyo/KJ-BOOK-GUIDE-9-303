@@ -2,8 +2,7 @@
 
 - [소개](README.md)
 - [브랜치 규칙](docs/branch_rule/README.md)
-  - [커밋 컨벤션]
-  - [PR 가이드]
+
 - [깃북 사용법](docs/git_book_guide/README.md)
 - [작성 가이드](docs/edit_guide/README.md)
   - [서술 가이드](docs/edit_guide/write_style/README.md)
@@ -11,5 +10,4 @@
     - [명명법](docs/edit_guide/write_style/naming_convention.md)
 
   - [스타일 가이드](docs/edit_guide/style_guide/README.md)
-    - [사용예시]
 - [담당자 & 일정](docs/manager/README.md)

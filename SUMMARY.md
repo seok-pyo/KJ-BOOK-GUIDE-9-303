@@ -10,4 +10,4 @@
     - [명명법](edit_guide/write_style/naming_convention.md)
   - [스타일 가이드](edit_guide/style_guide/README.md)
 - [담당자 & 일정](manager/README.md)
-- [용어 사전](GLOSSARY.md)
+- [컴퓨터 시스템 예시 템플릿](cs/README.md)

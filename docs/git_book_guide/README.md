@@ -13,6 +13,7 @@ GitBook은 디렉토리 구조를 기반으로 문서를 구성한다. 일반적
 project-root/
 ├── README.md             # 소개 페이지 (GitBook 첫 화면)
 ├── SUMMARY.md            # 목차 파일 (GitBook의 핵심)
+├── GLOSSARY.md            # 사전 파일 
 ├── docs/
 │   ├── chapter_1/
 │   │   ├── README.md
@@ -55,13 +56,20 @@ project-root/
 
 ---
 
-## 3. GitBook 설치 및 실행
+## 3. 용어 사전 작성
+`GLOSSARY.md`에 `##용어 1` 소제목 형태로 정의하고 아래에 설명을 서술하면, 용어 사전을 만들 수 있다.
 
-### 3-1. Node.js 설치  
+예시: 
+- 용어1
+- 용어2
+
+## 4. GitBook 설치 및 실행
+
+### 4-1. Node.js 설치  
 GitBook은 Node.js 기반으로 동작한다.  
 Node.js가 설치되어 있지 않다면 https://nodejs.org/ 에서 설치한다.
 
-### 3-2. GitBook CLI 설치
+### 4-2. GitBook CLI 설치
 
 npm install -g gitbook-cli
 
@@ -69,7 +77,7 @@ npm install -g gitbook-cli
 
 gitbook --version
 
-### 3-3. GitBook 초기화 (필요시)
+### 4-3. GitBook 초기화 (필요시)
 
 gitbook init
 
@@ -77,7 +85,7 @@ gitbook init
 
 ---
 
-## 4. GitBook 실행 및 확인
+## 5. GitBook 실행 및 확인
 
 로컬 서버를 실행하여 문서를 확인할 수 있다:
 
@@ -87,7 +95,7 @@ gitbook serve
 
 ---
 
-## 5. 빌드 (선택)
+## 6. 빌드 (선택)
 
 HTML 정적 사이트로 빌드하려면 다음 명령어를 사용한다:
 

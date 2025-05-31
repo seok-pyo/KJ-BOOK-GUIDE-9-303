@@ -22,8 +22,8 @@
 
 ## 1. 레지스터란?
 
-레지스터는 <span tooltip="Central Processing Unit">CPU</span> 내부에서 데이터를 임시로 저장하는 작은 저장소입니다.  
-예를 들어, AT&T 문법에서는 레지스터 이름 앞에 `%` 기호를 붙여 `%rax`, `%rbx`와 같이 나타냅니다.
+레지스터는 <span tooltip="Central Processing Unit">CPU</span> 내부에서 데이터를 임시로 저장하는 작은 저장소이다.  
+예를 들어, AT&T 문법에서는 레지스터 이름 앞에 `%` 기호를 붙여 `%rax`, `%rbx`와 같이 나타낸다.
 > 레지스터, 코드 속 변수명은 `를 사용하여 인라인 수식으로 표현한다. (GPT한테 문장을 주고 레지스터만 인라인코드로 바꿔달라하면 잘 바꿔준다.)
 
 ## 2. 주소 계산 방식
@@ -32,7 +32,7 @@
 
 $Imm(r_b, r_i, s) = r_b + r_i \times s$
 
-각 구성 요소는 다음과 같습니다:
+각 구성 요소는 다음과 같다.
 
 - $Imm$: <span tooltip="Immediate value">즉시 값</span>
 - $r_b$: <span tooltip="Base register">기준 레지스터</span>

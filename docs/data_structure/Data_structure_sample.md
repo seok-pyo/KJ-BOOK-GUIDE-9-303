@@ -41,7 +41,7 @@
 [동영상 제목이름](https://youtube.com)
 ```
 ```markdown
-![이미지](.\assets\style_guide\krafton-jungle.png)
+![이미지](/assets/style_guide/krafton-jungle.png)
 ```
 [^1]: 각주는 다음과 같이 작성한다.
 
